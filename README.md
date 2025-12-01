@@ -1,7 +1,9 @@
 ## Polindrom Kontrol Uygulaması
+
 Bu proje, kullanıcının girdiği kelime veya cümlelerin palindrom olup olmadığını kontrol eden, tamamen HTML, CSS ve JavaScript ile geliştirilmiş basit ama etkili bir web uygulamasıdır.
 
 ## Palindrom Nedir?
+
 Palindrom; tersten okunduğunda da anlamını veya yazımını kaybetmeyen kelimelere ve cümlelere verilen addır.
 
 ## Projenin Amacı
@@ -27,6 +29,9 @@ Aynı zamanda modern CSS ile basit bir UI tasarımı uygulama pratiği yapılmı
 - JavaScript (Vanilla) – Palindrom algoritması ve DOM yönetimi
 
 ## Canlı Demo
+
+https://aslisenamercimek.github.io/Polindrom-Uygulamasi/
+
 
 
 
